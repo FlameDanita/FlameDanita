@@ -14,6 +14,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FlameDanita&theme=solarized_dark)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=FlameDanita)](https://github.com/FlameDanita/github-profile-trophy)
+
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/FlameDanita/count.svg" />
