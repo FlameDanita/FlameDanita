@@ -14,7 +14,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FlameDanita&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FlameDanita&theme=solarized_dark)
 
 <p align="center"> 
   Visitors count<br>
