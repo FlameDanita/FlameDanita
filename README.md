@@ -13,6 +13,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FlameDanita&theme=solarized_dark)
 
+![Visitor Count](https://profile-counter.glitch.me/FlameDanita/count.svg)
+
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/FlameDanita/count.svg" />
