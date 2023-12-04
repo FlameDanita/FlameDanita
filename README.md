@@ -13,7 +13,9 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FlameDanita&theme=solarized_dark)
 
-https://visitcount.itsvg.in/api?id=FlameDanita&color=7
+![](https://visitcount.itsvg.in/api?id=FlameDanita&color=7)
+
+
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/FlameDanita/count.svg" />
