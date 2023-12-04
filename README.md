@@ -28,6 +28,6 @@
 </p>
 
 <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=FlameDanita&repo=ytdx">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=FlameDanita&repo=PM-swift-app">
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=FlameDanita&repo=pixel-weather">
 </p>
